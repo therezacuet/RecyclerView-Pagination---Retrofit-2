@@ -5,5 +5,8 @@ API Endpoint http://api.themoviedb.org/3/movie/top_rated?api_key=ec01f8c2eb6ac40
 
 Screenshot of this Apps: <br><br>
 
-<img src="https://github.com/therezacuet/RecyclerView-Pagination---Retrofit-2/blob/master/1.png" width="250px" height="400px"/>
-<img src="https://github.com/therezacuet/RecyclerView-Pagination---Retrofit-2/blob/master/2.png" width="250px" height="400px"/>
+Demo 1                     | Demo 2
+:-------------------------: | :--------------------------:
+![](https://github.com/therezacuet/RecyclerView-Pagination---Retrofit-2/blob/master/1.png) | ![](https://github.com/therezacuet/RecyclerView-Pagination---Retrofit-2/blob/master/2.png)
+
+
